@@ -1,2 +1,2 @@
-Tech Paper URL:
+Atlassian Tech Paper github pages URL:
 http://grevelem.github.io.
