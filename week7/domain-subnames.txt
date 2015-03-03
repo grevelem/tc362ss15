@@ -1,0 +1,3 @@
+Domain: emilygrevel.me
+Subdomain: test.emilygrevel.me
+Server IP: 104.131.160.199
